@@ -8,10 +8,9 @@ This component will do the following things:
 5. Component names should NOT have spaces when specifying them in the blueprint. Spaces will be removed.
 
 **Must be in Prefab mode**
+
 ## License
 
 Copyright © 2022–2023 Rares-Sebastian Popa.
 
-Licensed under the **PolyForm Strict License 1.0.0** — see [LICENSE.md](LICENSE.md).
-This permits noncommercial use only, with no distribution of the software or of
-changes or new works based on it.
+Licensed under the **MIT License** — see [LICENSE.md](LICENSE.md).
